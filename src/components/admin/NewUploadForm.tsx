@@ -49,7 +49,7 @@ export default function NewUploadForm({ knownLinks = {} }: { knownLinks?: Record
     if (meta.model) {
       setCheckpoints(prev => {
         if (prev.some(c => c.name === meta.model)) return prev;
-        return [...prev, { name: meta.model, link: knownLinks[meta.model!] || "" }];
+        return [...prev, { name: meta.model!, link: knownLinks[meta.model!] || "" }];
       });
     }
     

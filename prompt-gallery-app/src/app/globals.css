@@ -1,0 +1,195 @@
+@import "tailwindcss";
+
+/* ─── Local Fonts (Mark Pro) ─────────────────────────────── */
+@font-face {
+  font-family: 'Mark Pro';
+  src: url('/fonts/Mark Pro.woff2') format('woff2'),
+       url('/fonts/Mark Pro.woff') format('woff');
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Mark Pro';
+  src: url('/fonts/Mark Pro Medium.woff2') format('woff2'),
+       url('/fonts/Mark Pro Medium.woff') format('woff');
+  font-weight: 500;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Mark Pro';
+  src: url('/fonts/Mark Pro Bold.woff2') format('woff2'),
+       url('/fonts/Mark Pro Bold.woff') format('woff');
+  font-weight: 700;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Mark Pro';
+  src: url('/fonts/Mark Pro Heavy.woff2') format('woff2'),
+       url('/fonts/Mark Pro Heavy.woff') format('woff');
+  font-weight: 900;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Mark Pro';
+  src: url('/fonts/MarkPro-HeavyItalic.woff2') format('woff2'),
+       url('/fonts/MarkPro-HeavyItalic.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* ─── Design Tokens ─────────────────────────────────────── */
+:root {
+  /* Brand: dark, cinematic, curated */
+  --bg:         oklch(0.10 0.008 270);
+  --bg-raised:  oklch(0.13 0.010 270);
+  --bg-subtle:  oklch(0.15 0.012 270);
+  --border:     oklch(0.22 0.010 270);
+  --border-hi:  oklch(0.32 0.015 270);
+
+  --text:       oklch(0.96 0.004 270);
+  --text-2:     oklch(0.72 0.010 270);
+  --text-3:     oklch(0.48 0.010 270);
+
+  --accent:     oklch(0.72 0.17 300);     /* violet */
+  --accent-hi:  oklch(0.82 0.12 300);
+  --accent-bg:  oklch(0.18 0.04 300);
+  --accent-border: oklch(0.28 0.08 300);
+
+  /* Spacing scale (4pt) */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 64px;
+  --space-9: 96px;
+
+  /* Easing */
+  --ease-out-expo:  cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-out-quint: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-in-out:    cubic-bezier(0.77, 0, 0.175, 1);
+
+  /* Typography */
+  --font-display: 'Mark Pro', system-ui, sans-serif;
+  --font-body:    'Mark Pro', system-ui, sans-serif;
+}
+
+/* ─── Base ───────────────────────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: var(--font-body);
+  background: var(--bg);
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100dvh;
+}
+
+/* ─── Scrollbar ──────────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+  background: var(--border-hi);
+  border-radius: 99px;
+}
+::-webkit-scrollbar-thumb:hover { background: var(--text-3); }
+
+/* ─── Selection ──────────────────────────────────────────── */
+::selection {
+  background: var(--accent);
+  color: white;
+}
+
+/* ─── Focus ──────────────────────────────────────────────── */
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+/* ─── Animation Utilities ────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Page stagger: hero items */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.anim-fade-up {
+  opacity: 0;
+  animation: fadeUp 0.6s var(--ease-out-expo) forwards;
+}
+.anim-delay-1 { animation-delay: 80ms; }
+.anim-delay-2 { animation-delay: 160ms; }
+.anim-delay-3 { animation-delay: 240ms; }
+.anim-delay-4 { animation-delay: 320ms; }
+
+/* Card hover lift */
+.card-lift {
+  transition: transform 240ms var(--ease-out-expo),
+              box-shadow 240ms var(--ease-out-expo),
+              border-color 200ms ease;
+}
+.card-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 48px -16px oklch(0 0 0 / 0.8),
+              0 0 0 1px var(--accent-border);
+}
+
+/* Press feedback on interactive elements */
+.pressable {
+  transition: transform 120ms var(--ease-out-expo);
+}
+.pressable:active {
+  transform: scale(0.97);
+}
+
+/* Image reveal with @starting-style */
+img {
+  transition: opacity 300ms ease;
+}
+
+/* ─── Gallery Grid (CSS Grid masonry) ────────────────────────────────────────── */
+/* Column count is controlled inline in CharacterGallery.tsx */
+
+/* Hover overlay reveal */
+.gallery-card:hover .card-overlay {
+  opacity: 1 !important;
+}
+
+/* Subtle opacity pulse on hover */
+.gallery-card:hover {
+  opacity: 0.92;
+}
+
+/* ─── Album Card Image Zoom ───────────────────────────────── */
+/* Smooth scale on the image itself, no blur, proper ease-in-out */
+.card-cover-img {
+  transition: transform 500ms var(--ease-in-out);
+  will-change: transform;
+}
+.card-lift:hover .card-cover-img {
+  transform: scale(1.06);
+}
+
+/* ─── Utility Animations ─────────────────────────────────── */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}

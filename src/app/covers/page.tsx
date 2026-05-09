@@ -6,19 +6,6 @@ export const revalidate = 0;
 export default async function CoversPage() {
   const albums = await getSeriesAlbums();
 
-  // Serialize only what CoverManager needs
-  const data = albums.map((a) => ({
-    series: a.series,
-    slug: a.slug,
-    coverImage: a.coverImage,
-    characters: a.characters.map((c) => ({
-      character: c.character,
-      slug: c.slug,
-      coverImage: c.coverImage,
-      seriesSlug: a.slug,
-    })),
-  }));
-
   return (
     <main style={{ minHeight: "100dvh", background: "var(--bg)" }}>
       <div
@@ -45,7 +32,7 @@ export default async function CoversPage() {
           </p>
         </div>
 
-        <CoverManager albums={data} />
+        <CoverManager albums={albums} />
       </div>
     </main>
   );

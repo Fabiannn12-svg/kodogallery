@@ -5,9 +5,7 @@ import { Upload, ImageIcon, FolderPlus } from "lucide-react";
 import NewUploadForm from "@/components/admin/NewUploadForm";
 import AddToAlbumForm from "@/components/admin/AddToAlbumForm";
 import CoverManager from "@/components/CoverManager";
-
-interface CharInfo { character: string; slug: string; coverImage: string; seriesSlug: string; }
-interface AlbumInfo { series: string; slug: string; coverImage: string; characters: CharInfo[]; }
+import type { SeriesAlbum as AlbumInfo } from "@/lib/types";
 
 const TABS = [
   { id: "upload",    label: "New Upload",     icon: Upload },

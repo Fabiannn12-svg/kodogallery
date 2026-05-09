@@ -4,20 +4,9 @@ import { useState, useRef } from "react";
 import { nanoid } from "nanoid";
 import { ImageIcon, Upload, CheckCircle2, Loader2, ChevronDown, ChevronRight } from "lucide-react";
 
-const R2 = process.env.NEXT_PUBLIC_R2_PUBLIC_URL || "";
+import type { SeriesAlbum as AlbumInfo } from "@/lib/types";
 
-interface CharInfo {
-  character: string;
-  slug: string;
-  coverImage: string;
-  seriesSlug: string;
-}
-interface AlbumInfo {
-  series: string;
-  slug: string;
-  coverImage: string;
-  characters: CharInfo[];
-}
+const R2 = process.env.NEXT_PUBLIC_R2_PUBLIC_URL || "";
 
 // ── Single cover cell ─────────────────────────────────────────
 

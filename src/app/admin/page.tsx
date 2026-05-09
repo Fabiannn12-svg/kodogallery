@@ -6,18 +6,6 @@ export const revalidate = 0;
 export default async function AdminPage() {
   const albums = await getSeriesAlbums();
 
-  const albumData = albums.map((a) => ({
-    series: a.series,
-    slug: a.slug,
-    coverImage: a.coverImage,
-    characters: a.characters.map((c) => ({
-      character: c.character,
-      slug: c.slug,
-      coverImage: c.coverImage,
-      seriesSlug: c.seriesSlug,
-    })),
-  }));
-
   const knownLinks: Record<string, string> = {};
   for (const a of albums) {
     for (const c of a.characters) {
@@ -48,7 +36,7 @@ export default async function AdminPage() {
           <p style={{ fontSize: "13px", color: "var(--text-3)" }}>Manage uploads, album covers, and add to existing collections.</p>
         </div>
 
-        <AdminPanel albums={albumData} knownLinks={knownLinks} />
+        <AdminPanel albums={albums} knownLinks={knownLinks} />
       </div>
     </main>
   );

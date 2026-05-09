@@ -14,6 +14,7 @@ export default async function AdminPage() {
       character: c.character,
       slug: c.slug,
       coverImage: c.coverImage,
+      seriesSlug: c.seriesSlug,
     })),
   }));
 

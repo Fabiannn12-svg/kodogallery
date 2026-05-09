@@ -1,0 +1,43 @@
+{
+  "id": "1762101967-314248e0",
+  "title": "a-aahhh-ahhh~~ i-it tickles!~~ your tongue licks my pussy~~",
+  "tags": [
+    "Tohru Kobayashi",
+    "Kobayashi-san Chi no Maid Dragon"
+  ],
+  "hidden_tags": [
+    "cunnilingus from side",
+    "cunnilingus",
+    "torogao"
+  ],
+  "checkpoints": [
+    {
+      "name": "HassakuWAI_IL_Merge",
+      "link": "https://civitai.com/models/2093794?modelVersionId=2368961"
+    }
+  ],
+  "loras": [
+    {
+      "name": "Tohru (トール) - Miss Kobayashi's Dragon Maid",
+      "link": "https://civitai.com/models/1464413/tohru-miss-kobayashis-dragon-maid"
+    },
+    {
+      "name": "Cunnilingus From Side - Concept",
+      "link": "http://civitai.com/models/1375937/cunnilingus-from-side-concept"
+    }
+  ],
+  "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl,  tohru, tohru (maidragon), long hair, bangs, blonde hair, hair between eyes, twintails, very long hair, multicolored hair, horns, fang, gradient hair, dragon horns, red eyes, slit pupils, mature female, breasts, maid headdress, (opened eyes), <lora:dragon-tohru-s2-illustriousxl-lora-nochekaiser:0.7> nsfw, nude, thick thigh, perfect thigh, (trembling), cunnilingus from side, cunnilingus, from side, oral, completely nude, nipples, blush, hetero, torogao, lying, <lora:cunnilingus-from-side-v2-illustriousxl-lora-nochekaiser:0.8>, blushing, bed room, bed, indoors, messy covers, pillow, detailed background, detailed bedroom, green curtain, (complex background) (anime coloring:1.2), (anime screencap:1.2) (sweating:1), side view, BREAK 1boy, black hair boy, faceless",
+  "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, thick lineart, door handle, yellow background, cafe, 6 fingers, bright, simple background",
+  "cfg_scale": "6",
+  "sampling_steps": "20",
+  "sampling_method": "Euler a",
+  "width": 1216,
+  "height": 832,
+  "seed": "1854914389",
+  "image_filenames": [
+    "1762101967-314248e0-0.webp"
+  ],
+  "is_slideshow": false,
+  "created_at": 1762101967,
+  "is_nsfw": true
+}

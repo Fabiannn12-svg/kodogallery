@@ -1,0 +1,39 @@
+{
+  "id": "1762100159-b9b0e760",
+  "title": "Ahh-ahhh~~ W-WAIT!! slow down y-you idiot!! ahh~~",
+  "tags": [
+    "Tohru Kobayashi",
+    "Kobayashi-san Chi no Maid Dragon"
+  ],
+  "hidden_tags": [
+    "doggy",
+    "pov",
+    "from behind"
+  ],
+  "checkpoints": [
+    {
+      "name": "HassakuWAI_IL_Merge",
+      "link": "https://civitai.com/models/2093794?modelVersionId=2368961"
+    }
+  ],
+  "loras": [
+    {
+      "name": "Tohru (トール) - Miss Kobayashi's Dragon Maid",
+      "link": "https://civitai.com/models/1464413/tohru-miss-kobayashis-dragon-maid"
+    }
+  ],
+  "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl,  tohru, tohru (maidragon), long hair, bangs, blonde hair, hair between eyes, twintails, very long hair, multicolored hair, horns, fang, gradient hair, dragon horns, red eyes, slit pupils, mature female, breasts, gloves, dress, short sleeves, necktie, white gloves, maid, maid headdress, (closed eyes), <lora:dragon-tohru-s2-illustriousxl-lora-nochekaiser:0.7> nsfw, nude, thick thigh, perfect thigh, (extremely moaning), (trembling), (impact lines), doggy, doggystyle sex from behind, hand on hips, behind pov, pov, vaginal. anus, ass, (rough sex), blushing, bed room, bed, indoors, messy covers, pillow, detailed background, detailed bedroom, (complex background) (anime coloring:1.2), (anime screencap:1.2) (sweating:1), side view, BREAK 1boy, black hair boy, faceless",
+  "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, thick lineart, door handle, yellow background, cafe, 6 fingers, bright, simple background",
+  "cfg_scale": "7",
+  "sampling_steps": "20",
+  "sampling_method": "Euler a",
+  "width": 832,
+  "height": 1216,
+  "seed": "1491602776",
+  "image_filenames": [
+    "1762100159-b9b0e760-0.webp"
+  ],
+  "is_slideshow": false,
+  "created_at": 1762100159,
+  "is_nsfw": true
+}

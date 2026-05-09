@@ -1,0 +1,40 @@
+{
+  "id": "1761470532-2d7a0981",
+  "title": "Kyaahhh!! don't look at my ass!! it's embarrassing!!~~",
+  "tags": [
+    "Karyl",
+    "Princess Connect! Re:Dive"
+  ],
+  "hidden_tags": [
+    "reverse cowgirl",
+    "anus",
+    "laying"
+  ],
+  "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl, pcrcal, black hair, streaked hair, cat ears, animal ear fluff, long cat tail, closed eyes, opened eyes, <lora:_kyaru_pcr-elesico-ilxlC:1> calpajamas, low twintails, cat mask, mask on head, pajamas, shirt, nsfw, nude, thick thigh, perfect thigh, blush, (small tits), (small breasts), (extremely moaning), (trembling), sex, doggy, behind pov, vaginal, penis, cum, ass, anus, saliva, sex from behind, rough sex, deep sex, overwhelmed, grabbing her ass, bed, wood bed room, messy covers, pillow, indoors,  (aged up:1.4), (anime coloring:1.2), (anime screencap:1.2) (sweating:1), dutch angle, god rays, cinematic lighting, cowboy shot, night, BREAK <lora:yuuki_princess_connect_ilxl:1> yuuki_princess_connect, black hair, short hair, bangs, antenna hair, ahoge faceless",
+  "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, 4 fingers, 3 fingers, thick lineart, door handle, yellow background, cafe, 6 fingers, bad hand, off-model anatomy",
+  "cfg_scale": "5",
+  "sampling_steps": "20",
+  "sampling_method": "Euler a",
+  "width": 1216,
+  "height": 832,
+  "seed": "2804362460",
+  "checkpoints": [
+    {
+      "name": "HassakuWAI_IL_Merge",
+      "link": "https://civitai.com/models/2093794?modelVersionId=2368961"
+    }
+  ],
+  "loras": [
+    {
+      "name": "[IL v0.1] Karyl - Princess Connect | キャル プリンセスコネクト!Re:Dive (8+1 costumes)",
+      "link": "https://civitai.com/models/1619527/il-v01-karyl-princess-connect-or-redive-81-costumes"
+    },
+    {
+      "name": "Yuuki | Princess Connect! Re:Dive",
+      "link": "https://civitai.com/models/462438/yuuki-or-princess-connect-redive"
+    }
+  ],
+  "image_filename": "1761470532-2d7a0981.webp",
+  "created_at": 1761470532,
+  "is_nsfw": true
+}

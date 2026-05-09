@@ -1,0 +1,45 @@
+{
+    "id": "1762582458-1fa681f4",
+    "title": "ahhh-ahhh~~ y-your cock soo deep inside myu body!~~ ahh~kyahh",
+    "tags": [
+        "Yasuko Kouenji",
+        "Sewayaki Kitsune no Senko-san"
+    ],
+    "hidden_tags": [
+        "doggy",
+        "from behind"
+    ],
+    "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl, yasuko kouenji, brown hair, hair ornament, brown eyes, ponytail, ahoge, glasses, hairclip, semi-rimless eyewear, under-rim eyewear, mature female, large breasts, anime screencap, opened eyes, <lora:yasuko-kouenji-s1-illustriousxl-lora-nochekaiser:0.8> (medium breasts), nsfw, nude, thick thigh, perfect thigh, (extremely moaning), (trembling), doggystyle, doggy, sex from behind, all fours, (rough sex), <lora:Rough_Sex_Any_position:0.7> blushing, bed room, bed, indoors, detailed background, detailed room, complex background, curtains, (aged up:1.3), (anime coloring:1.2), (anime screencap:1.2) (sweating:1), dutch angle BREAK, 1boy, ((black hair boy)), faceless, hand grabbing her ass",
+    "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, thick lineart, broken fingers, distorted fingers, thighhighs, 6 fingers, brown hair boy,",
+    "cfg_scale": "5",
+    "sampling_steps": "20",
+    "sampling_method": "Euler a",
+    "width": 1216,
+    "height": 832,
+    "seed": "1949457927",
+    "checkpoints": [
+        {
+            "name": "HassakuWAI_IL_Merge",
+            "link": "https:\/\/civitai.com\/models\/2093794?modelVersionId=2368961"
+        }
+    ],
+    "loras": [
+        {
+            "name": "Yasuko Kouenji (高円寺安子)",
+            "link": "https:\/\/civitai.com\/models\/1964501\/yasuko-kouenji-yen-the-helpful-fox-senko-san-sewayaki-kitsune-no-senko-san"
+        },
+        {
+            "name": "Rough Sex (Any position)",
+            "link": "https:\/\/civitai.com\/models\/734224\/rough-sex-any-position"
+        },
+        {
+            "name": "[VAE] PPPAnimix VAE",
+            "link": "https:\/\/civitai.com\/models\/285852\/pppanimix-vae"
+        }
+    ],
+    "image_filename": [
+        "1762582458-1fa681f4-0.webp"
+    ],
+    "created_at": 1762582458,
+    "is_nsfw": true
+}

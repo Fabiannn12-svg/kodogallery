@@ -1,0 +1,40 @@
+{
+  "id": "1761059564-ef058769",
+  "title": "ha-ahh slow down pleasee!!~~",
+  "tags": [
+    "Miu Amano",
+    "Blend S"
+  ],
+  "hidden_tags": [
+    "doggy"
+  ],
+  "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl, indoors, cafe, amano miu, medium hair, pink hair, low twin braids, hair between eyes, blue eyes, (extremely moaning), (trembling), (orgasm), (rough sex),  <lora:Rough_Sex_Any_position:0.7>, white thighhighs, white headscarf, nsfw, nude, sex, big breasts, vaginal, blush, doggystyle, doggy, sex from behind, looking back, looking at viewer, bed, on bed, pillow, messy covers, (modern bedroom), (hotel), (aged up:1.3), (anime coloring:1.2), (anime screencap:1.2) (sweating:1),  <lora:Miu_Amano_ILXL:0.8> dutch angle, close up, BREAK brown hair boy, penis",
+  "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, 4 fingers, 3 fingers, thick lineart, door handle, yellow background, cafe,",
+  "cfg_scale": "5",
+  "sampling_steps": "20",
+  "sampling_method": "Euler a",
+  "width": 0,
+  "height": 0,
+  "seed": "3065471264",
+  "checkpoints": [
+    {
+      "name": "HassakuWAI_IL_Merge",
+      "link": "https://civitai.com/models/2093794?modelVersionId=2368961"
+    }
+  ],
+  "loras": [
+    {
+      "name": "Miu Amano (天野美雨) - Blend S (ブレンド・S) (2 Outfits)",
+      "link": "https://civitai.com/models/1234543/miu-amano-blend-s-s-2-outfits"
+    },
+    {
+      "name": "Rough Sex (Any position)",
+      "link": "https://civitai.com/models/734224/rough-sex-any-position"
+    }
+  ],
+  "image_filename": "1761059564-ef058769.webp",
+  "created_at": 1761059564,
+  "is_nsfw": true,
+  "series_cover_image": "cover_series_0tw34a53.png",
+  "char_cover_image": "cover_char_UExa2Tm8.png"
+}

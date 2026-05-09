@@ -1,0 +1,24 @@
+{
+  "id": "1761457669-4b8b0f68",
+  "title": "What are you looking at?",
+  "tags": [
+    "Maria Mikhailovna Kujou",
+    "Roshidere",
+    ".safetensor"
+  ],
+  "hidden_tags": [
+    "nude"
+  ],
+  "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl, maria mikhailovna kujou, long hair, bangs, brown hair, hair ornament, hair between eyes, brown eyes, ahoge, mature female, opened eyes, <lora:maria-mikhailovna-kujou-s1-illustriousxl-lora-nochekaiser:1> nude, (medium breasts), blush, arms under breasts, crossed arms, breast hold, navel, nipples, parted lips, sweatdrop, from below, looking at viewer <lora:arms-under-breasts-ponyxl-lora-nochekaiser:1> indoors, bed room, (aged up:1.4), (anime coloring:1.2), (anime screencap:1.2) (sweating:1), cowboy shot, close up",
+  "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, 4 fingers, 3 fingers, thick lineart, door handle, yellow background, cafe, 6 fingers",
+  "cfg_scale": "5",
+  "sampling_steps": "20",
+  "sampling_method": "Euler a",
+  "width": 832,
+  "height": 1216,
+  "seed": "3477499872",
+  "image_filename": "1761457669-4b8b0f68.webp",
+  "created_at": 1761457669,
+  "is_nsfw": true,
+  "link_lora": "https://civitai.com/models/1385047/maria-mikhailovna-masha-kujou-alya-sometimes-hides-her-feelings-in-russian-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san"
+}

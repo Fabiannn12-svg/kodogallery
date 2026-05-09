@@ -1,0 +1,33 @@
+{
+  "id": "y3I99H7TwUc9",
+  "title": "Maika Sakuranomiya — Blend S",
+  "tags": [
+    "Maika Sakuranomiya",
+    "Blend S"
+  ],
+  "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl, sakuranomiya maika, long hair, black hair, low twintails, blunt bangs, pom pom hair ornament, purple eyes, opened mouth, opened eyes, scared pupil (extremely moaning), (trembling), (climax), (orgasm), (rough sex) <lora:Rough_Sex_Any_position:0.5>,  nsfw, nude, anal sex, small breasts, ass, anus, anal, blood on anus, virgin blood anal, doggystyle, doggy, sperm, blush, sex from behind, looking back, looking at viewer, hands on ass, bedroom, (aged up:1.2), (anime coloring:1.2), (lineart:0.7), (anime screencap:1.2) (sweating:1),  <lora:Maika_Sakuranomiya_ILXL:0.8> side view, night, BREAK blonde hair boy, penis",
+  "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, 4 fingers, 3 fingers, thick lineart",
+  "cfg_scale": "5",
+  "sampling_steps": "20",
+  "sampling_method": "Euler a",
+  "seed": "1526080876",
+  "checkpoints": [
+    {
+      "name": "hassakuwaiIL_v10"
+    }
+  ],
+  "loras": [
+    {
+      "name": "Rough_Sex_Any_position"
+    },
+    {
+      "name": "Maika_Sakuranomiya_ILXL"
+    }
+  ],
+  "images": [
+    {
+      "filename": "ypfV2iEMT2.png"
+    }
+  ],
+  "created_at": 1778326469508
+}

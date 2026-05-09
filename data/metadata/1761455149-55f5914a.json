@@ -1,0 +1,21 @@
+{
+  "id": "1761455149-55f5914a",
+  "title": "i-i'm tired!! but it's feels so good!!!~~ ahh-ahhh~~",
+  "tags": [],
+  "hidden_tags": [
+    "doggy",
+    "hip up"
+  ],
+  "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl, maria mikhailovna kujou, long hair, bangs, brown hair, hair ornament, hair between eyes, brown eyes, ahoge, mature female, opened eyes, <lora:maria-mikhailovna-kujou-s1-illustriousxl-lora-nochekaiser:1> nsfw, nude, (medium breasts), thick thigh, perfect thigh, blush, hip_up_doggy, hetero, sex, sex from behind, doggystyle, top-down bottom-up, all fours, grabbing her ass, <lora:hipup_doggy:0.8>, (extremely moaning), (trembling), (drooling), saliva,  indoors, on bed, bed, bed room, (modern bed), (aged up:1.4), (anime coloring:1.2), (anime screencap:1.2) (sweating:1), dutch angle, cinematic lighting, sun ray from window",
+  "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, 4 fingers, 3 fingers, thick lineart, door handle, yellow background, cafe, 6 fingers",
+  "cfg_scale": "5",
+  "sampling_steps": "20",
+  "sampling_method": "Euler a",
+  "width": 0,
+  "height": 0,
+  "seed": "2329833672",
+  "image_filename": "1761455149-55f5914a.webp",
+  "created_at": 1761455149,
+  "is_nsfw": true,
+  "link_lora": "https://civitai.com/models/1385047/maria-mikhailovna-masha-kujou-alya-sometimes-hides-her-feelings-in-russian-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san"
+}

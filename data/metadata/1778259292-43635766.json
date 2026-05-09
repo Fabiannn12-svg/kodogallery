@@ -1,0 +1,56 @@
+{
+  "id": "1778259292-43635766",
+  "title": "Kaho Deepthroat",
+  "tags": [
+    "Kaho Hinata",
+    "Blend S"
+  ],
+  "hidden_tags": [
+    "fellatio",
+    "blowjob",
+    "deepthroat"
+  ],
+  "checkpoints": [
+    {
+      "name": "hassakuwaiIL_v10",
+      "link": "https://civitai.com/models/2093794/hassakuwaiil?modelVersionId=2368961"
+    }
+  ],
+  "loras": [
+    {
+      "name": "Kaho Hinata (日向夏帆) - Blend S (ブレンド・S) (3 Outfits)",
+      "link": "https://civitai.com/models/1117917/kaho-hinata-blend-s-s-3-outfits"
+    }
+  ],
+  "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl, hinata kaho, long hair, blonde hair, quad tails, sidelocks, hair between eyes, blue eyes, headscarf, blue shirt, waitress, short puffy sleeves, skirt, white gloves, white apron, waist apron, frilled apron, white back bow, white thighhighs, ((opened eyes)), <lora:Kaho_Hinata_ILXL:0.8> nsfw, nude, medium breasts, thick thigh, perfect thigh, blush, penis, looking up, deepthroat, mouth, fellatio, cum, facial, rough sex, saliva, snot, drooling, overwhelmed, cafe, indoors, (aged up:1.4), (anime coloring:1.2), (anime screencap:1.2) (sweating:1), dutch angle, dramatic lighting, on floor,",
+  "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, curtain, curtains",
+  "cfg_scale": "5",
+  "sampling_steps": "20",
+  "sampling_method": "Euler a",
+  "width": 832,
+  "height": 1216,
+  "seed": "82163986",
+  "is_nsfw": true,
+  "images": [
+    {
+      "filename": "1778259292-43635766-0.webp",
+      "metadata": {
+        "positive_prompt": "\u0000masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl, hinata kaho, long hair, blonde hair, quad tails, sidelocks, hair between eyes, blue eyes, headscarf, blue shirt, waitress, short puffy sleeves, skirt, white gloves, white apron, waist apron, frilled apron, white back bow, white thighhighs, ((opened eyes)), <lora:Kaho_Hinata_ILXL:0.8> nsfw, nude, medium breasts, thick thigh, perfect thigh, blush, penis, looking up, deepthroat, mouth, fellatio, cum, facial, rough sex, saliva, snot, drooling, overwhelmed, cafe, indoors, (aged up:1.4), (anime coloring:1.2), (anime screencap:1.2) (sweating:1), dutch angle, dramatic lighting, on floor,",
+        "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, curtain, curtains",
+        "sampling_steps": "20",
+        "sampling_method": "Euler a",
+        "cfg_scale": "5",
+        "seed": "82163986",
+        "width": "832",
+        "height": "1216"
+      }
+    }
+  ],
+  "image_filenames": [
+    "1778259292-43635766-0.webp"
+  ],
+  "is_slideshow": false,
+  "created_at": 1778259292,
+  "series_cover_image": "cover_series_0tw34a53.png",
+  "char_cover_image": "cover_char_ZaVTsH91.png"
+}

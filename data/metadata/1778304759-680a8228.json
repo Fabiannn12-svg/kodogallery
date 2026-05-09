@@ -1,0 +1,96 @@
+{
+  "id": "1778304759-680a8228",
+  "title": "Doggy",
+  "tags": [
+    "Kaho Hinata",
+    "Blend S"
+  ],
+  "hidden_tags": [
+    "doggy"
+  ],
+  "checkpoints": [
+    {
+      "name": "hassakuwaiIL_v10",
+      "link": "https://civitai.com/models/2093794/hassakuwaiil?modelVersionId=2368961"
+    }
+  ],
+  "loras": [
+    {
+      "name": "Kaho Hinata (日向夏帆) - Blend S (ブレンド・S) (3 Outfits)",
+      "link": "https://civitai.com/models/1117917/kaho-hinata-blend-s-s-3-outfits"
+    }
+  ],
+  "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, newest, perfect details, 1girl, hinata kaho, long hair, blonde hair, quad tails, sidelocks, hair between eyes, blue eyes, <lora:Kaho_Hinata_ILXL:0.8> implied sex, from side, nude, sweat, all fours, ass up, ass, implied sex, ass grab, sheet grab, aroused, open mouth, saliva drip, tongue out, from behind, pov, half-closed eyes,  (aged up:1.4), (anime coloring:1.2), (anime screencap:1.2) (sweating:1), bedroom, BROWN wall, pillow, messy cover, night, cinematic lighting, dramatic lighting",
+  "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic",
+  "cfg_scale": "5",
+  "sampling_steps": "20",
+  "sampling_method": "Euler a",
+  "width": 1216,
+  "height": 832,
+  "seed": "2155968620",
+  "is_nsfw": true,
+  "images": [
+    {
+      "filename": "1778304759-680a8228-0.webp",
+      "metadata": {
+        "positive_prompt": "\u0000masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, newest, perfect details, 1girl, hinata kaho, long hair, blonde hair, quad tails, sidelocks, hair between eyes, blue eyes, unworn blue skirt white apron, waist apron, frilled apron, white back bow, <lora:Kaho_Hinata_ILXL:0.8> implied sex, from side, nude, sweat, all fours, ass up, ass, implied sex, ass grab, sheet grab, aroused, open mouth, saliva drip, tongue out, from behind, pov, half-closed eyes,  (aged up:1.4), (anime coloring:1.2), (anime screencap:1.2) (sweating:1), bedroom, wall, pillow, messy cover, night, cinematic lighting, dutch angle",
+        "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, yellow wall",
+        "sampling_steps": "20",
+        "sampling_method": "Euler a",
+        "cfg_scale": "5",
+        "seed": "4126222960",
+        "width": "1216",
+        "height": "832"
+      }
+    },
+    {
+      "filename": "1778304759-680a8228-1.webp",
+      "metadata": {
+        "positive_prompt": "\u0000masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, newest, perfect details, 1girl, hinata kaho, long hair, blonde hair, quad tails, sidelocks, hair between eyes, blue eyes, unworn headscarf <lora:Kaho_Hinata_ILXL:0.8> implied sex, from side, nude, sweat, all fours, ass up, ass, implied sex, ass grab, sheet grab, aroused, open mouth, saliva drip, tongue out, from behind, pov, half-closed eyes,  (aged up:1.4), (anime coloring:1.2), (anime screencap:1.2) (sweating:1), bedroom, wall, pillow, messy cover, night, cinematic lighting, dramatic lighting",
+        "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, yellow wall",
+        "sampling_steps": "20",
+        "sampling_method": "Euler a",
+        "cfg_scale": "5",
+        "seed": "215629019",
+        "width": "1216",
+        "height": "832"
+      }
+    },
+    {
+      "filename": "1778304759-680a8228-2.webp",
+      "metadata": {
+        "positive_prompt": "\u0000masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, newest, perfect details, 1girl, hinata kaho, long hair, blonde hair, quad tails, sidelocks, hair between eyes, blue eyes, <lora:Kaho_Hinata_ILXL:0.8> implied sex, from side, nude, sweat, all fours, ass up, ass, implied sex, ass grab, sheet grab, aroused, open mouth, saliva drip, tongue out, from behind, pov, half-closed eyes,  (aged up:1.4), (anime coloring:1.2), (anime screencap:1.2) (sweating:1), bedroom, BROWN wall, pillow, messy cover, night, cinematic lighting, dramatic lighting",
+        "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic",
+        "sampling_steps": "20",
+        "sampling_method": "Euler a",
+        "cfg_scale": "5",
+        "seed": "2155968620",
+        "width": "1216",
+        "height": "832"
+      }
+    },
+    {
+      "filename": "1778304759-680a8228-3.webp",
+      "metadata": {
+        "positive_prompt": "\u0000masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, newest, perfect details, 1girl, hinata kaho, long hair, blonde hair, quad tails, sidelocks, hair between eyes, blue eyes, <lora:Kaho_Hinata_ILXL:0.8> implied sex, from side, nude, sweat, all fours, ass up, ass, implied sex, ass grab, sheet grab, aroused, open mouth, saliva drip, tongue out, from behind, pov, half-closed eyes,  (aged up:1.4), (anime coloring:1.2), (anime screencap:1.2) (sweating:1), bedroom, wall, pillow, messy cover, night, cinematic lighting, dramatic lighting",
+        "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic",
+        "sampling_steps": "20",
+        "sampling_method": "Euler a",
+        "cfg_scale": "5",
+        "seed": "1755584664",
+        "width": "832",
+        "height": "1216"
+      }
+    }
+  ],
+  "image_filenames": [
+    "1778304759-680a8228-0.webp",
+    "1778304759-680a8228-1.webp",
+    "1778304759-680a8228-2.webp",
+    "1778304759-680a8228-3.webp"
+  ],
+  "is_slideshow": true,
+  "created_at": 1778304759,
+  "series_cover_image": "cover_series_0tw34a53.png",
+  "char_cover_image": "cover_char_ZaVTsH91.png"
+}

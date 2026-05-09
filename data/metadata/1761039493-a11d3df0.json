@@ -1,0 +1,36 @@
+{
+  "id": "1761039493-a11d3df0",
+  "title": "l-let's do this everyday!~~ ahh-ahh~",
+  "tags": [
+    "Kaho Hinata",
+    "Blend S"
+  ],
+  "hidden_tags": [
+    "prone"
+  ],
+  "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl, hinata kaho, long hair, blonde hair, quad tails, sidelocks, hair between eyes, blue eyes, nsfw, nude, sex, pink nipples, blush, opened mouth, closed eyes, prone, prone style, from behind, bed, on bed, pillow, covers, bedroom, love hotel (aged up:1.4), (anime coloring:1.1), (upper body:1.3), (anime screencap:1.2) sweating <lora:Kaho_Hinata_ILXL:0.8> full body, dutch angle, cowboy shot",
+  "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic",
+  "cfg_scale": "5",
+  "sampling_steps": "20",
+  "sampling_method": "Euler a",
+  "width": 1216,
+  "height": 832,
+  "seed": "1377582094",
+  "checkpoints": [
+    {
+      "name": "HassakuWAI_IL_Merge",
+      "link": "https://civitai.com/models/2093794?modelVersionId=2368961"
+    }
+  ],
+  "loras": [
+    {
+      "name": "Kaho Hinata (日向夏帆) - Blend S (ブレンド・S) (3 Outfits)",
+      "link": "https://civitai.com/models/1117917/kaho-hinata-blend-s-s-3-outfits"
+    }
+  ],
+  "image_filename": "1761039493-a11d3df0.webp",
+  "created_at": 1761039493,
+  "is_nsfw": true,
+  "series_cover_image": "cover_series_0tw34a53.png",
+  "char_cover_image": "cover_char_ZaVTsH91.png"
+}

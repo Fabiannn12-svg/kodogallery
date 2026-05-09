@@ -1,0 +1,72 @@
+{
+    "id": "1762444601-9e503b93",
+    "title": "“h-he really p-put it in!!~ w-what do I do…? t-this is my first time…! ahh~ahhh~~”",
+    "tags": [
+        "Yor Forger",
+        "SPY x FAMILY"
+    ],
+    "hidden_tags": [
+        "doggy",
+        "pov",
+        "indoors"
+    ],
+    "checkpoints": [
+        {
+            "name": "HassakuWAI_IL_Merge",
+            "link": "https:\/\/civitai.com\/models\/2093794?modelVersionId=2368961"
+        }
+    ],
+    "loras": [
+        {
+            "name": "Yor Forger\/Yor Briar's outfits (Spy x Family)",
+            "link": "https:\/\/civitai.com\/models\/1439010\/yor-forgeryor-briars-outfits-spy-x-family-29-tagged-outfits-commission"
+        },
+        {
+            "name": "Loid Forger | Spy x Family Pony XL",
+            "link": "https:\/\/civitai.com\/models\/994662\/loid-forger-or-spy-x-family-pony-xl"
+        }
+    ],
+    "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl, Yor Forger (character), yor briar, 1girl, solo, black hair, long hair, red eyes, sidelocks, plain black dress, Yor Thorn Princess (outfit), gold hairband, fingerless gloves, cleavage, two-sided dress, two-sided fabric, thighhighs, silly eyes, opened eyes, closed mouth <lora:All_of_Yor_ForgerBriars_outfits_Spy_x_Family:1> nsfw, half nude, (medium breasts), thick thigh, perfect thigh, (trembling), doggystyle, doggy, sex from behind, all fours, (rough sex), blushing, bed room, bed, messy covers, pillow, indoors, red curtains, wood window, god rays, (anime coloring:1.2), (anime screencap:1.2) (sweating:1), side view, BREAK loid_forger, messy hair, faceless, grab her ass  <lora:Loid_Forger_Pony_XL_v1:0.8>",
+    "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, thick lineart, broken fingers, distorted fingers, thighhighs, 6 fingers",
+    "cfg_scale": "6",
+    "sampling_steps": "20",
+    "sampling_method": "Euler a",
+    "width": 832,
+    "height": 1216,
+    "seed": "2804137114",
+    "is_nsfw": true,
+    "images": [
+        {
+            "filename": "1762444601-9e503b93-0.webp",
+            "metadata": {
+                "positive_prompt": "\u0000masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl, Yor Forger (character), yor briar, 1girl, solo, black hair, long hair, red eyes, sidelocks, plain black dress, Yor Thorn Princess (outfit), gold hairband, fingerless gloves, cleavage, two-sided dress, two-sided fabric, thighhighs, silly eyes, opened eyes, closed mouth <lora:All_of_Yor_ForgerBriars_outfits_Spy_x_Family:1> nsfw, half nude, (medium breasts), thick thigh, perfect thigh, (trembling), doggystyle, doggy, sex from behind, all fours, (rough sex), blushing, bed room, bed, messy covers, pillow, indoors, red curtains, wood window, god rays, (anime coloring:1.2), (anime screencap:1.2) (sweating:1), side view, BREAK loid_forger, messy hair, faceless, grab her ass  <lora:Loid_Forger_Pony_XL_v1:0.8>",
+                "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, thick lineart, broken fingers, distorted fingers, thighhighs, 6 fingers",
+                "sampling_steps": "20",
+                "sampling_method": "Euler a",
+                "cfg_scale": "6",
+                "seed": "2804137114",
+                "width": "832",
+                "height": "1216"
+            }
+        },
+        {
+            "filename": "1762444601-9e503b93-1.webp",
+            "metadata": {
+                "positive_prompt": "\u0000masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl, Yor Forger (character), yor briar, 1girl, solo, black hair, long hair, red eyes, sidelocks, plain black dress, Yor Thorn Princess (outfit), gold hairband, fingerless gloves, cleavage, two-sided dress, two-sided fabric, thighhighs, silly eyes, opened eyes, closed mouth <lora:All_of_Yor_ForgerBriars_outfits_Spy_x_Family:1> nsfw, half nude, (medium breasts), thick thigh, perfect thigh, (trembling), doggystyle, doggy, sex from behind, all fours, (rough sex), blushing, bed room, bed, messy covers, pillow, indoors, god rays, (anime coloring:1.2), (anime screencap:1.2) (sweating:1), behind pov, POV, vaginal, anus, ass, BREAK loid_forger, messy hair, faceless, grab her ass  <lora:Loid_Forger_Pony_XL_v1:0.8>, uncensored",
+                "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, thick lineart, broken fingers, distorted fingers, thighhighs, 6 fingers, censored penis",
+                "sampling_steps": "20",
+                "sampling_method": "Euler a",
+                "cfg_scale": "6",
+                "seed": "512277019",
+                "width": "832",
+                "height": "1216"
+            }
+        }
+    ],
+    "image_filenames": [
+        "1762444601-9e503b93-0.webp",
+        "1762444601-9e503b93-1.webp"
+    ],
+    "is_slideshow": true,
+    "created_at": 1762444601
+}

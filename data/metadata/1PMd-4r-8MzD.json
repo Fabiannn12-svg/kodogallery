@@ -1,0 +1,99 @@
+{
+  "id": "1PMd-4r-8MzD",
+  "title": "Maika Sakuranomiya — Blend S",
+  "tags": [
+    "Maika Sakuranomiya",
+    "Blend S"
+  ],
+  "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl, sakuranomiya maika, long hair, black hair, low twintails, blunt bangs, pom pom hair ornament, purple eyes, waitress, headscarf, puffy short sleeves, pink shirt, pink skirt, white gloves, white apron, waist apron, frilled apron, white back bow, white thighhighs, black footwear, flats, opened mouth, opened eyes, small breasts, nsfw, nude, spitroast, blush, testicles, oral, trembling, fellatio, irrumatio, deepthroat, completely nude, cafe, indoors, cinematic lighting, dramatic lighting, dutch angle (aged up:1.2), (anime coloring:1.2), (lineart:0.7), (anime screencap:1.2) (sweating:1),  <lora:Maika_Sakuranomiya_ILXL:0.8> side view, BREAK blonde hair boy",
+  "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, 4 fingers, 3 fingers, thick lineart",
+  "cfg_scale": "5",
+  "sampling_steps": "20",
+  "sampling_method": "Euler a",
+  "seed": "1714778699",
+  "checkpoints": [
+    {
+      "name": "hassakuwaiIL_v10",
+      "link": "https://civitai.com/models/2093794/hassakuwaiil?modelVersionId=2368961"
+    }
+  ],
+  "loras": [
+    {
+      "name": "Maika_Sakuranomiya_ILXL",
+      "link": "https://civitai.com/models/1082403/maika-sakuranomiya-blend-s-s-2-outfits"
+    }
+  ],
+  "images": [
+    {
+      "filename": "_v1nLmJmjF.png",
+      "metadata": {
+        "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl, sakuranomiya maika, long hair, black hair, low twintails, blunt bangs, pom pom hair ornament, purple eyes, waitress, headscarf, puffy short sleeves, pink shirt, pink skirt, white gloves, white apron, waist apron, frilled apron, white back bow, white thighhighs, black footwear, flats, opened mouth, opened eyes, small breasts, nsfw, nude, spitroast, blush, testicles, oral, trembling, fellatio, irrumatio, deepthroat, completely nude, cafe, indoors, cinematic lighting, dramatic lighting, dutch angle (aged up:1.2), (anime coloring:1.2), (lineart:0.7), (anime screencap:1.2) (sweating:1),  <lora:Maika_Sakuranomiya_ILXL:0.8> side view, BREAK blonde hair boy",
+        "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, 4 fingers, 3 fingers, thick lineart",
+        "sampling_steps": "20",
+        "sampling_method": "Euler a",
+        "cfg_scale": "5",
+        "seed": "1714778699",
+        "width": "832",
+        "height": "1216",
+        "model": "hassakuwaiIL_v10"
+      }
+    },
+    {
+      "filename": "edTVV8zX-C.png",
+      "metadata": {
+        "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl, sakuranomiya maika, long hair, black hair, low twintails, blunt bangs, pom pom hair ornament, purple eyes, waitress, headscarf, puffy short sleeves, pink shirt, pink skirt, white gloves, white apron, waist apron, frilled apron, white back bow, white thighhighs, black footwear, flats, opened mouth, opened eyes, small breasts, nsfw, nude, spitroast, blush, testicles, oral, trembling, fellatio, irrumatio, deepthroat, completely nude, cafe, indoors, cinematic lighting, dramatic lighting, dutch angle (aged up:1.2), (anime coloring:1.2), (lineart:0.7), (anime screencap:1.2) (sweating:1),  <lora:Maika_Sakuranomiya_ILXL:0.8> on floor, pov BREAK 1boys, half pants, white t-shirt",
+        "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, 4 fingers, 3 fingers, thick lineart",
+        "sampling_steps": "20",
+        "sampling_method": "Euler a",
+        "cfg_scale": "5",
+        "seed": "453138793",
+        "width": "832",
+        "height": "1216",
+        "model": "hassakuwaiIL_v10"
+      }
+    },
+    {
+      "filename": "Ah1bVbuvSG.png",
+      "metadata": {
+        "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl, sakuranomiya maika, long hair, black hair, low twintails, blunt bangs, pom pom hair ornament, purple eyes, waitress, headscarf, puffy short sleeves, pink shirt, pink skirt, white gloves, white apron, waist apron, frilled apron, white back bow, white thighhighs, black footwear, flats, opened mouth, opened eyes, small breasts, nsfw, nude, spitroast, blush, testicles, oral, trembling, fellatio, irrumatio, deepthroat,  saliva, snot, drooling, overwhelmed, cafe, indoors, cinematic lighting, dramatic lighting, dutch angle (aged up:1.2), (anime coloring:1.2), (lineart:0.7), (anime screencap:1.2) (sweating:1),  <lora:Maika_Sakuranomiya_ILXL:0.8> on floor, pov",
+        "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, 4 fingers, 3 fingers, thick lineart",
+        "sampling_steps": "20",
+        "sampling_method": "Euler a",
+        "cfg_scale": "5",
+        "seed": "4061487579",
+        "width": "832",
+        "height": "1216",
+        "model": "hassakuwaiIL_v10"
+      }
+    },
+    {
+      "filename": "A9SOc_XBBw.png",
+      "metadata": {
+        "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl, sakuranomiya maika, long hair, black hair, low twintails, blunt bangs, pom pom hair ornament, purple eyes, waitress, headscarf, puffy short sleeves, pink shirt, pink skirt, white gloves, white apron, waist apron, frilled apron, white back bow, white thighhighs, black footwear, flats, opened mouth, opened eyes, small breasts, nsfw, nude, spitroast, blush, testicles, oral, trembling, fellatio, irrumatio, deepthroat,  saliva, snot, drooling, overwhelmed, cafe, indoors, cinematic lighting, dramatic lighting, (aged up:1.2), (anime coloring:1.2), (lineart:0.7), (anime screencap:1.2) (sweating:1),  <lora:Maika_Sakuranomiya_ILXL:0.8> on floor, hands on boy",
+        "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, 4 fingers, 3 fingers, thick lineart",
+        "sampling_steps": "20",
+        "sampling_method": "Euler a",
+        "cfg_scale": "5",
+        "seed": "5208354",
+        "width": "832",
+        "height": "1216",
+        "model": "hassakuwaiIL_v10"
+      }
+    },
+    {
+      "filename": "fe6Co85Hfv.png",
+      "metadata": {
+        "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl, sakuranomiya maika, long hair, black hair, low twintails, blunt bangs, pom pom hair ornament, purple eyes, waitress, headscarf, puffy short sleeves, pink shirt, pink skirt, white gloves, white apron, waist apron, frilled apron, white back bow, white thighhighs, black footwear, flats, opened mouth, opened eyes, small breasts, nsfw, nude, spitroast, blush, testicles, oral, trembling, fellatio, irrumatio, deepthroat,  saliva, snot, drooling, overwhelmed, cafe, indoors, cinematic lighting, dramatic lighting, (aged up:1.2), (anime coloring:1.2), (lineart:0.7), (anime screencap:1.2) (sweating:1),  <lora:Maika_Sakuranomiya_ILXL:0.8> on floor, hands on boy, from side view, side view",
+        "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, 4 fingers, 3 fingers, thick lineart",
+        "sampling_steps": "20",
+        "sampling_method": "Euler a",
+        "cfg_scale": "5",
+        "seed": "2155112957",
+        "width": "832",
+        "height": "1216",
+        "model": "hassakuwaiIL_v10"
+      }
+    }
+  ],
+  "created_at": 1778342951015
+}

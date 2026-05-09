@@ -1,0 +1,38 @@
+{
+  "id": "1762009877-fd7e0d87",
+  "title": "W-WAIT!! d-don't look at my ass!! ahh-ah~~",
+  "tags": [
+    "Tohru Kobayashi",
+    "Kobayashi-san Chi no Maid Dragon"
+  ],
+  "hidden_tags": [
+    "doggy",
+    "pov"
+  ],
+  "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl,  tohru, tohru (maidragon), long hair, bangs, blonde hair, hair between eyes, twintails, very long hair, multicolored hair, horns, fang, gradient hair, dragon horns, red eyes, slit pupils, mature female, breasts, opened eyes, <lora:dragon-tohru-s2-illustriousxl-lora-nochekaiser:1> nsfw, nude, thick thigh, perfect thigh, (extremely moaning), (trembling), doggystyle, doggy, sex from behind, pov, behind pov, anus, ass, (rough sex), <lora:Rough_Sex_Any_position:0.7> blushing, bed room, bed, indoors, detailed background, detailed room, (aged up:1.3), (anime coloring:1.2), (anime screencap:1.2) (sweating:1), BREAK 1boy, black hair boy, faceless, hand grabbing her ass",
+  "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, thick lineart, broken fingers, distorted fingers, thighhighs, 6 fingers",
+  "cfg_scale": "5",
+  "sampling_steps": "20",
+  "sampling_method": "Euler a",
+  "width": 832,
+  "height": 1216,
+  "seed": "3706898413",
+  "checkpoints": [
+    {
+      "name": "ANTI-NOVA💥 (NOVAcancy)",
+      "link": "https://civitai.com/models/2047996/anti-nova-novacancy"
+    }
+  ],
+  "loras": [
+    {
+      "name": "Tohru (トール) - Miss Kobayashi's Dragon Maid",
+      "link": "https://civitai.com/models/1464413/tohru-miss-kobayashis-dragon-maid"
+    }
+  ],
+  "image_filename": [
+    "1762009877-fd7e0d87-0.webp",
+    "1762009877-fd7e0d87-1.webp"
+  ],
+  "created_at": 1762009877,
+  "is_nsfw": true
+}

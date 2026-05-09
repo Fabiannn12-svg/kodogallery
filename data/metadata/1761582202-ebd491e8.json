@@ -1,0 +1,37 @@
+{
+  "id": "1761582202-ebd491e8",
+  "title": "ahh-ahhh~~ t-this a good sex!!~ ahh~~",
+  "tags": [
+    "Runa Shirakawa",
+    "Kimizero"
+  ],
+  "hidden_tags": [
+    "missionary",
+    "hetero",
+    "spreading legs",
+    "leg up"
+  ],
+  "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl, luna shirakawa, long hair, blue eyes, blonde hair, hair ornament, bow, multicolored hair, hairclip, mature female, <lora:luna-shirakawa-s1-illustriousxl-lora-nochekaiser:1> nsfw, nude, (medium breasts), thick thigh, perfect thigh, blush, penis, testicles, hetero, aroused girl, girl looking at the viewer, blushing, eyes open wide, missionary vaginal, close up, spreading legs, legs up, (moaning), (trembling), rough sex, on bed, bed room, modern bed, messy covers, pillow, (aged up:1.3), (anime coloring:1.2), (anime screencap:1.2) (sweating:1), dutch angle, orange lighting, cinematic, sunset, god rays, window BREAK brown hair, faceless",
+  "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, thick lineart, 6 fingers",
+  "cfg_scale": "5",
+  "sampling_steps": "20",
+  "sampling_method": "Euler a",
+  "width": 832,
+  "height": 1216,
+  "seed": "3141350133",
+  "checkpoints": [
+    {
+      "name": "HassakuWAI_IL_Merge",
+      "link": "https://civitai.com/models/2093794?modelVersionId=2368961"
+    }
+  ],
+  "loras": [
+    {
+      "name": "Runa Shirakawa (白河 月愛)",
+      "link": "https://civitai.com/models/1749698/runa-shirakawa-our-dating-story-the-experienced-you-and-the-inexperienced-me"
+    }
+  ],
+  "image_filename": "1761582202-ebd491e8.webp",
+  "created_at": 1761582202,
+  "is_nsfw": true
+}

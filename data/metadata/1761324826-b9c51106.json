@@ -1,0 +1,35 @@
+{
+  "id": "1761324826-b9c51106",
+  "title": "AHHHH!! anal sex is so goodd!!~~",
+  "tags": [
+    "Alisa Mikhailovna Kujou",
+    "Roshidere"
+  ],
+  "hidden_tags": [
+    "doggy",
+    "anal"
+  ],
+  "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl, alisa mikhailovna kujou, long hair, bangs, blue eyes, detailed eyes, hair ribbon, ahoge, grey hair, red ribbon, closed eyes,  <lora:alisa-mikhailovna-kujou-s1-illustriousxl-lora-nochekaiser:1> nsfw, nude, medium breasts, thick thigh, perfect thigh, blush,  (extremely moaning), (trembling), penis, anal, anus, ass, doggy, behind pov, sex from behind, rough sex, overwhelmed, hands on hips, on bed, bedroom, modern bed, messy covers,  (aged up:1.4), (anime coloring:1.2), (anime screencap:1.2) (sweating:1), dutch angle, cinematic sunset lighting",
+  "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, 4 fingers, 3 fingers, thick lineart, door handle, yellow background, cafe, 6 fingers",
+  "cfg_scale": "5",
+  "sampling_steps": "20",
+  "sampling_method": "Euler a",
+  "width": 832,
+  "height": 1216,
+  "seed": "3190351590",
+  "checkpoints": [
+    {
+      "name": "HassakuWAI_IL_Merge",
+      "link": "https://civitai.com/models/2093794?modelVersionId=2368961"
+    }
+  ],
+  "loras": [
+    {
+      "name": "Alisa Mikhailovna",
+      "link": "https://civitai.com/models/1337611/alisa-mikhailovna-alya-kujou-alya-sometimes-hides-her-feelings-in-russian-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san"
+    }
+  ],
+  "image_filename": "1761324826-b9c51106.webp",
+  "created_at": 1761324826,
+  "is_nsfw": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "QB8rHALxRr3W",
+  "title": "Maika Sakuranomiya — Blend S",
+  "tags": [
+    "Maika Sakuranomiya",
+    "Blend S"
+  ],
+  "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl, <lora:Maika_Sakuranomiya_ILXL:1> sakuranomiya maika, long hair, black hair, low twintails, blunt bangs, purple eyes, waitress, nsfw, nude, small breasts, thick thigh, perfect thigh, blush,  (extremely moaning), (trembling), penis, anal, anus, ass, doggy, side view, sex from behind, rough sex, deep sex, overwhelmed, hands on hips, blood on anus, virgin blood on anus, on bed, bedroom, modern bed, pillow, messy covers, (aged up:1.2), (anime coloring:1.2), (anime screencap:1.2) (sweating:1), dutch angle, night, cinematic lighting",
+  "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, curtain, curtains",
+  "cfg_scale": "5",
+  "sampling_steps": "20",
+  "sampling_method": "Euler a",
+  "seed": "2298634616",
+  "checkpoints": [
+    {
+      "name": "hassakuwaiIL_v10",
+      "link": "https://civitai.com/models/2093794/hassakuwaiil?modelVersionId=2368961"
+    }
+  ],
+  "loras": [
+    {
+      "name": "Maika_Sakuranomiya_ILXL",
+      "link": "https://civitai.com/models/1082403/maika-sakuranomiya-blend-s-s-2-outfits"
+    }
+  ],
+  "images": [
+    {
+      "filename": "bEdx-Xf6sG.png",
+      "metadata": {
+        "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl, <lora:Maika_Sakuranomiya_ILXL:1> sakuranomiya maika, long hair, black hair, low twintails, blunt bangs, purple eyes, waitress, nsfw, nude, small breasts, thick thigh, perfect thigh, blush,  (extremely moaning), (trembling), penis, anal, anus, ass, doggy, side view, sex from behind, rough sex, deep sex, overwhelmed, hands on hips, blood on anus, virgin blood on anus, on bed, bedroom, modern bed, pillow, messy covers, (aged up:1.2), (anime coloring:1.2), (anime screencap:1.2) (sweating:1), dutch angle, night, cinematic lighting",
+        "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, curtain, curtains",
+        "sampling_steps": "20",
+        "sampling_method": "Euler a",
+        "cfg_scale": "5",
+        "seed": "2298634616",
+        "width": "832",
+        "height": "1216",
+        "model": "hassakuwaiIL_v10"
+      }
+    }
+  ],
+  "created_at": 1778344753399
+}

@@ -1,0 +1,36 @@
+{
+  "id": "1761049081-fa3a500f",
+  "title": "I-i like it ahh~~",
+  "tags": [
+    "Maika Sakuranomiya",
+    "Blend S"
+  ],
+  "hidden_tags": [
+    "prone"
+  ],
+  "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl, sakuranomiya maika, long hair, black hair, low twintails, blunt bangs, pom pom hair ornament, purple eyes, white thighhighs, white headscarf, nsfw, nude, sex, small breasts, blush, opened mouth, closed eyes, hand on hips, prone, prone style, from behind, bed, on bed, pillow, messy covers, white bedroom, apartment (aged up:1.2), (anime coloring:1.1), (anime screencap:1.2) (sweating:1) <lora:Maika_Sakuranomiya_ILXL:0.8> full body, dutch angle, cowboy shot, cinematic light, BREAK blonde hair boy",
+  "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, 4 fingers, 3 fingers",
+  "cfg_scale": "5",
+  "sampling_steps": "20",
+  "sampling_method": "Euler a",
+  "width": 1216,
+  "height": 832,
+  "seed": "3502353774",
+  "checkpoints": [
+    {
+      "name": "HassakuWAI_IL_Merge",
+      "link": "https://civitai.com/models/2093794?modelVersionId=2368961"
+    }
+  ],
+  "loras": [
+    {
+      "name": "Maika Sakuranomiya (桜ノ宮苺香)",
+      "link": "https://civitai.com/models/1082403/maika-sakuranomiya-blend-s-s-2-outfits"
+    }
+  ],
+  "image_filename": "1761049081-fa3a500f.webp",
+  "created_at": 1761049081,
+  "is_nsfw": true,
+  "series_cover_image": "cover_series_0tw34a53.png",
+  "char_cover_image": "cover_char_Gwa6DVm4.png"
+}

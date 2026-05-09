@@ -1,0 +1,53 @@
+{
+    "id": "1762705997-255be91e",
+    "title": "p-please m-masterr~~ fill me with your cum!~~ ahhh~~",
+    "tags": [
+        "Senko-san",
+        "Sewayaki Kitsune no Senko-san"
+    ],
+    "hidden_tags": [
+        "reverse cowgirl",
+        "women on top"
+    ],
+    "checkpoints": [
+        {
+            "name": "HassakuWAI_IL_Merge",
+            "link": "https:\/\/civitai.com\/models\/2093794?modelVersionId=2368961"
+        }
+    ],
+    "loras": [
+        {
+            "name": "Sewayaki Kitsune no Senko-san | Senko (Illustrious)",
+            "link": "https:\/\/civitai.com\/models\/1907316\/sewayaki-kitsune-no-senko-san-or-senko-illustrious"
+        }
+    ],
+    "positive_prompt": "masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl,  Senko, kitsune, fox girl, blonde hair, short hair, fox ears, fox tail, golden eyes, <lora:Senko:0.8> ((opened eyes)), (small breasts), nsfw, nude, thick thigh, perfect thigh, (moaning), (trembling), women on top, cowgirl, anal, anus, ass, vaginal, pov, behind pov, bed room, bed, indoors, messy covers, modern bed, (anime coloring:1.2), (anime screencap:1.2) (sweating:1), BREAK 1boy, black hair boy, faceless, hand grabbing her ass",
+    "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, thick lineart, broken fingers, distorted fingers, thighhighs, 6 fingers, door, curtains, green room",
+    "cfg_scale": "7",
+    "sampling_steps": "20",
+    "sampling_method": "Euler a",
+    "width": 832,
+    "height": 1216,
+    "seed": "2023811175",
+    "is_nsfw": true,
+    "images": [
+        {
+            "filename": "1762705997-255be91e-0.webp",
+            "metadata": {
+                "positive_prompt": "\u0000masterpiece, best quality, amazing quality, highres, absurdres, very aesthetic, high resolution, ultra detailed, perfect details, 1girl,  Senko, kitsune, fox girl, blonde hair, short hair, fox ears, fox tail, golden eyes, <lora:Senko:0.8> ((opened eyes)), (small breasts), nsfw, nude, thick thigh, perfect thigh, (moaning), (trembling), women on top, cowgirl, anal, anus, ass, vaginal, pov, behind pov, bed room, bed, indoors, messy covers, modern bed, (anime coloring:1.2), (anime screencap:1.2) (sweating:1), BREAK 1boy, black hair boy, faceless, hand grabbing her ass",
+                "negative_prompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, 3d, realism, realistic, thick lineart, broken fingers, distorted fingers, thighhighs, 6 fingers, door, curtains, green room",
+                "sampling_steps": "20",
+                "sampling_method": "Euler a",
+                "cfg_scale": "7",
+                "seed": "2023811175",
+                "width": "832",
+                "height": "1216"
+            }
+        }
+    ],
+    "image_filenames": [
+        "1762705997-255be91e-0.webp"
+    ],
+    "is_slideshow": false,
+    "created_at": 1762705997
+}
